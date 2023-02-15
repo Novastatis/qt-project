@@ -1,10 +1,10 @@
 # qt-project
 
-//Creating .pro file
+Creating .pro file
 
-//Building for Linux:
+Building for Linux:
 Building for Windows:
-  //qmake
+  qmake
   Include this libs in app dir: 
     - Qt6Core.dll
     - Qt6Gui.dll
